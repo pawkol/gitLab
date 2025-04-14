@@ -4,4 +4,4 @@ stages:
 test-job:
   stage: test
   script:
-    - echo "Runner works men"
+    - echo "Runner works"
